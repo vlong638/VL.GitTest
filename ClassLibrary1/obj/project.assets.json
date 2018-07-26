@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\greedy\\source\\repos\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectUniqueName": "D:\\Repository\\VL.GitTest\\ClassLibrary1\\ClassLibrary1.csproj",
       "projectName": "ClassLibrary1",
-      "projectPath": "c:\\users\\greedy\\source\\repos\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectPath": "D:\\Repository\\VL.GitTest\\ClassLibrary1\\ClassLibrary1.csproj",
       "packagesPath": "C:\\Users\\greedy\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\greedy\\source\\repos\\ClassLibrary1\\ClassLibrary1\\obj\\",
+      "outputPath": "D:\\Repository\\VL.GitTest\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
